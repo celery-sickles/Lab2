@@ -1,3 +1,5 @@
+# Ellery, Miles
+
 def CommonElement(array1, array2):
     array3 = []
     for i in array1:
